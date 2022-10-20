@@ -1,0 +1,12 @@
+.top-banner{
+    top: 50px;
+}
+.half-width{
+    width: 50;
+}
+.color{
+    background-color: darkcyan;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
